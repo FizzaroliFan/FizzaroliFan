@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💗 Hey there! I'm FizzaroliFan
 
-<!--
-**FizzaroliFan/FizzaroliFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+୨୧ Just a femboy who loves technology, creativity and making little things happen!
 
-Here are some ideas to get you started:
+### ✨ About me
+- 🐍 Learning and building with Python
+- 💚 Working on **Easy DRE**, a financial management project
+- 📊 Interested in finance, administration and data visualization
+- 🎨 Drawing, creating characters and exploring new ideas
+- 🐾 A little nerd with too many interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently exploring
+`Python` · `SQLite` · `Tkinter` · `TypeScript`
+
+### 🌸 A little reminder
+> Life is too short to make everything boring.  
+> Write some code, draw something cute, and be yourself. 💗
+
+✨ Thanks for stopping by!
