@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Fizzarolli.jpg" width="100%" alt="FizzaroliFan banner">
+  <img src="./assets/cutefizz.jpg" width="100%" alt="FizzaroliFan banner">
 </p>
 
 <p align="center">
