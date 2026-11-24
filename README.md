@@ -22,7 +22,7 @@
 ### ✨ About me ₍ᐢ•(ܫ)•ᐢ₎
 
 > 🐍 Learning and building with **Python**
-> 💚 Working on **Easy DRE**, a financial management project
+> 💚 Working on some projects
 > 📊 Into finance, administration and data visualization
 > 🎨 Drawing, creating characters and exploring new ideas
 > 🐾 A little nerd with *way* too many interests
